@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    height: 0;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-image: url("dummy images/bg.jpg");
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  
+  
+}
+
+.navbar{
+    border:1px solid rgb(8, 8, 8);
+    border: none;
+    background-color:black;
+    opacity: 0.7;
+    overflow: hidden;
+}
+.img1{
+    margin:auto;  
+}
+
+
+.nav-link{
+    font-size: 15px;
+    font-weight: bold;
+   margin-right: 80px;
+   
+    opacity: 1;
+    color:gold;
+}
+.nav-link:hover{
+    border-bottom: 2px solid gainsboro;
+    color: whitesmoke;
+}
+
+.title{
+    font-weight: 700;
+    color: white;
+    padding: 80px;
+font-size: 40px;
+}
+.s-title{
+    color: goldenrod;
+    padding: 30px;
+}
+.para{
+    color: floralwhite;
+    padding: 30px;
+    font-weight: 500;
+}
+.icons{
+    border: 1px solid wheat;
+    border: none;
+    width: 100%;
+    margin: auto;
+    padding: 50px;
+}
+.i1{
+    border-radius: 17px;
+    justify-content: space-evenly;
+    opacity: 0.9;
+    
+ }
+ .i1:hover{
+    opacity: 1;
+    border: 2px solid white;
+ }
+ .title-1{
+color: gold;
+opacity: 0.9;
+padding-left: 4%;
+text-transform: capitalize;
+font-size: 32px;
+font-weight: 600;
+margin-top: 50px;
+ }
+
+ .col{
+    border: 1px solid wheat;
+    margin:auto;
+    width: 100%;
+    border: none;
+    padding: 70px;
+}
+
+.irow{
+    margin: auto;
+    border-radius: 17px;
+    justify-content: space-evenly;
+    opacity: 0.9;
+    border: 1px solid wheat;
+    border: none;
+    margin-left: 10px;
+    padding: auto;
+    
+ }
+ .irow:hover{
+    opacity: 1;
+    border: 2px solid white;
+ }
+
+ 
+ 
+
+
+ 
+
